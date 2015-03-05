@@ -1,0 +1,26 @@
+{
+  "name": "swampdragon",
+  "version": "0.4.1.1",
+  "authors": [
+    "https://github.com/jonashagstedt/swampdragon"
+  ],
+  "description": "SwampDragon is a powerful platform making it easy to build real time web applications, combining the power of Django and Tornado",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "real-time",
+    "redis",
+    "django",
+    "swampdragon"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jonashagstedt/swampdragon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
