@@ -2,7 +2,7 @@
   "name": "swampdragon",
   "version": "0.4.1.1",
   "authors": [
-    "https://github.com/jonashagstedt/swampdragon"
+    "https://github.com/jonashagstedt/swampdragon-bower"
   ],
   "description": "SwampDragon is a powerful platform making it easy to build real time web applications, combining the power of Django and Tornado",
   "moduleType": [
@@ -15,7 +15,7 @@
     "swampdragon"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/jonashagstedt/swampdragon",
+  "homepage": "https://github.com/jonashagstedt/swampdragon-bower",
   "ignore": [
     "**/.*",
     "node_modules",
